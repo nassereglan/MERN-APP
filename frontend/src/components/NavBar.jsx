@@ -1,9 +1,9 @@
 import React from 'react'
 import { Button, Container, Flex, HStack, Icon, Text } from "@chakra-ui/react"
 import { Link } from 'react-router'
-import { FaPlusSquare  } from "react-icons/fa";
 import { useColorMode } from './ui/color-mode';
 
+import { FaPlusSquare  } from "react-icons/fa";
 import { IoIosSunny } from "react-icons/io";
 import { IoMoonOutline } from "react-icons/io5";
 

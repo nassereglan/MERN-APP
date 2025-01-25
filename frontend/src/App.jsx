@@ -6,7 +6,6 @@ import NavBar from './components/NavBar';
 import CreatePage from '../pages/CreatePage';
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <Box minH={"100vh"}>
